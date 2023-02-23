@@ -1,0 +1,21 @@
+.quote-text {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 120%;
+    color: #000000;
+    align-self: center;
+}
+
+.quote-container {
+    margin-inline: auto;
+    width: 614px;
+    height: auto;
+    text-align: left;
+    border-left: 5px solid #F7DF94;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 4em;
+    margin-top: 1em;
+}

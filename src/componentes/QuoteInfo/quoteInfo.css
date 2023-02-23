@@ -1,0 +1,41 @@
+.container-author {
+    margin-inline: auto;
+    width: 614px;
+    height: auto;
+    text-align: left;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    margin-top: 1em;
+    display: flex;
+  }
+  
+  .author-genre {
+    align-self: center;
+  }
+  
+  .container-author:hover {
+    background-color: #F7DF94;
+    cursor: pointer;
+  }
+  
+  .author {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4F4F4F;
+  }
+  
+  .genre {
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #828282;
+    margin-top: -1em;
+  }
+  
+  .flechita {
+    color: #fff
+  }

@@ -1,0 +1,16 @@
+.footer-text {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A9A9A9;
+    position: absolute;
+    bottom: 0;
+}
+
+footer {
+
+    padding-top: 2em;
+    justify-content: center;
+    display: flex;
+}
