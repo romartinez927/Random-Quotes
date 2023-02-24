@@ -17,3 +17,14 @@
     padding-right: .2em;
   }
   
+@media (max-width: 768px) { 
+  .random-btn {
+    padding-right: 1em;
+  }
+}
+
+@media (max-width: 425px) { 
+  .random-btn {
+    padding-right: 0;
+  }
+}

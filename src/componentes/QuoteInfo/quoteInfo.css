@@ -46,3 +46,23 @@
     height: auto;
     text-align: left;
   }
+
+
+@media (max-width: 768px) { 
+  .container-author {
+      width: 400px;
+  }
+  
+  .text-start {
+    width: 400px;
+} 
+}
+
+@media (max-width: 425px) { 
+  .container-author {
+    width: 300px;
+} 
+  .text-start {
+    width: 300px;
+  } 
+}

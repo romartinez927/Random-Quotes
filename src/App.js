@@ -30,7 +30,6 @@ function App() {
       setQuotes(data.data)
     })
     .catch(error => console.error(error))
-
   }
 
   const getQuote = () => {

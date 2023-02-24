@@ -6,8 +6,8 @@ export default function RandomBtn(props) {
             <p className='random-btn-text'>
                 random
             </p>
-            <span className="material-icons material-symbols-outlined">
-                refresh
+            <span class="material-icons material-symbols-outlined">
+                sync
             </span>
         </div>
     )
