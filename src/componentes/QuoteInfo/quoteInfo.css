@@ -39,3 +39,10 @@
   .flechita {
     color: #fff
   }
+
+  .text-start {
+    margin-inline: auto;
+    width: 614px;
+    height: auto;
+    text-align: left;
+  }

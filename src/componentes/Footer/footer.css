@@ -4,13 +4,10 @@
     font-size: 14px;
     line-height: 17px;
     color: #A9A9A9;
-    position: absolute;
-    bottom: 0;
 }
 
 footer {
-
-    padding-top: 2em;
+    padding-top: 3em;
     justify-content: center;
     display: flex;
 }

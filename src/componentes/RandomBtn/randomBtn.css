@@ -4,15 +4,16 @@
     padding-top: 1em;
     display: flex;
     justify-content: end;
+    cursor: pointer
   }
   
   .random-btn-text {
-    margin-top: .1em;
+    margin-top: .055em;
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
     line-height: 120%;
-    padding-right: .5em;
+    padding-right: .2em;
   }
   
