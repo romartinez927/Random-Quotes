@@ -4,19 +4,21 @@
     font-weight: 500;
     font-size: 36px;
     line-height: 120%;
-    color: #000000;
+    color: #f6fff8;
     align-self: center;
 }
 
 .quote-container {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
     margin-inline: auto;
     width: 614px;
     height: auto;
     text-align: left;
-    border-left: 5px solid #F7DF94;
+    border-left: 5px solid #4a4e69;
     justify-content: center;
     align-items: center;
     padding-inline: 4em;
+    padding-block: 2em;
     margin-top: 1em;
 }
 
@@ -36,7 +38,7 @@
 @media (max-width: 425px) { 
     .quote-container {
         width: 300px;
-        padding-inline: 2em;
+        padding: 2em;
     }
 
     .quote-text{

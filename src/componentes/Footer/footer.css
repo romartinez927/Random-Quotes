@@ -3,11 +3,12 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 17px;
-    color: #A9A9A9;
+    color: #f2e9e4;
 }
 
 footer {
     padding-top: 3em;
     justify-content: center;
     display: flex;
+    margin-bottom: 0;
 }
